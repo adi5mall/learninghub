@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.header {
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.navigation {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.navigation a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.login-container, .courses-container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    text-align: center;
+}
